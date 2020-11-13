@@ -8,7 +8,7 @@
 
 >This animated GIF shows the change in nighlights over time:
 
-<img src="https://github.com/JakobWB/ESM267-jakob_wilford-bivin-webmap/blob/main/docs/timelapse.gif" alt="oops" height=384 width=512 />
+<img src="/timelapse.gif" alt="oops" height=384 width=512 />
 
 >I noticed this trend in North Dakota while looking at nightlight data for the entirety of the United States. I investigated and found that several developments, all related to fossil fuel production, were responsible:
 >- The Parshall Oil Field, part of the Bakken Formation, was discovered in 2006. Its production peaked in 2012.
